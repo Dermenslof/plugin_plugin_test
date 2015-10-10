@@ -1,0 +1,4 @@
+name: plugin_plugin_test
+author: dermenslof
+version: 0.0.1
+main: pluginplugintest.PluginPluginTest
